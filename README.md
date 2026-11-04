@@ -8,7 +8,7 @@ My Python full-stack portfolio, featuring SpendTrail, Enterprise Incident Invest
 
 The design uses charcoal, warm ivory, lime, and coral, with an original SVG sculpture, paper compositions, an animated radar, a document scan, and an illustrative forecast chart.
 
-Each project includes a case study with its workflow, features, recorded validation, limitations, and repository. The website also includes experience, skills, contact links, and an email link to request my résumé.
+Each project includes a case study with its workflow, features, recorded validation, limitations, and repository. The website also includes my resume, experience, skills, and contact links.
 
 ## Run locally
 
@@ -21,7 +21,7 @@ Run npm run check to check JavaScript syntax, internal links, local assets, proj
 - index.html: page content and project illustrations.
 - styles.css: layout, typography, responsive styling, and animations.
 - app.js: case studies, menu, motion preference, clock, and email-copy control.
-- assets/: local fonts and artwork.
+- assets/: local fonts, artwork, and downloadable resume.
 - scripts/: local server, checks, and original artwork generator.
 
 ## Hosting

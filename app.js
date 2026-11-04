@@ -25,8 +25,8 @@ const projects = {
       'Exact-action approvals, stale-evidence checks, and idempotent recovery against an isolated synthetic fault lab.',
       'Separate-author review for runbook publication and manual closure, with audit trails and independent lab-health verification.'
     ],
-    evidence: [['79', 'backend tests passing'], ['15 / 15', 'container integration checks in the résumé'], ['10 / 10', 'synthetic regression cases passing']],
-    limits: 'A local demonstration using rules and keyword search. It does not use an LLM or semantic RAG. Automated remediation is limited to the isolated synthetic fault lab. The résumé records Docker checks covering PostgreSQL, Redis, Celery, and Nginx; the older public portfolio still marks those integrations as unverified. Production incident accuracy and reliability are not established.',
+    evidence: [['79', 'backend tests passing'], ['15 / 15', 'container integration checks in the resume'], ['10 / 10', 'synthetic regression cases passing']],
+    limits: 'A local demonstration using rules and keyword search. It does not use an LLM or semantic RAG. Automated remediation is limited to the isolated synthetic fault lab. The resume records Docker checks covering PostgreSQL, Redis, Celery, and Nginx; the older public portfolio still marks those integrations as unverified. Production incident accuracy and reliability are not established.',
     repo: 'https://github.com/Dilep01/enterprise-incident-copilot'
   },
   documind: {
