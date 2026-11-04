@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dilep01.github.io/python-portfolio/sitemap.xml
